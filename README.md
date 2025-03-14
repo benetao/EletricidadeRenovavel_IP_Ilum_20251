@@ -22,10 +22,10 @@
 
 <div align="center">
   <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://github.com/benetao/Projeto_Final_RNAG/assets/106626661/ffe4d9a5-a03a-4fdf-9029-e36c64b1649c" alt="Logo" width="220" height="220">
+    <img src="https://github.com/user-attachments/assets/eaac5b3a-6667-4237-ad3a-3eac8f34abfa" alt="Logo" width="220" height="220">
   </a>
 
-  <h3 align="center">Modelagem de Geração de Eletricidade Renovável e seus Impactos no Preço e na Emissão de GEE</h3>
+  <h3 align="center">Modelagem de Geração de Eletricidade Renovável</h3>
 
   <p align="center">
     Bem vindo ao nosso Repositório da Iniciação a Pesquisa 2025.1, disciplina do 5° semestre da Ilum!
@@ -53,7 +53,7 @@
 
 
 <!-- Sobre o Projeto -->
-## Aplicação de Algoritmos Genéticos no problema da alocação de leitos em urgências e emergências obstétricas <a name="sobre"></a>
+## Modelagem de geração de eletricidade renovável e seus impactos no preço e na emissão de GEE<a name="sobre"></a>
 A alocação de leitos foi uma questão que recebeu bastante destaque durante a pandemia de COVID-19, por exemplo. A insuficiência do número de quartos nos hospitais em comparação com o número de pessoas que necessitam de atendimentos, especialmente no SUS, não é novidade. Considerando essa problemática, resolvemos utilizar algoritmos genéticos para nos auxiliar na alocação de leitos de acordo com características dos pacientes que desejam atendimento.
 
 Inicialmente, não havíamos definido uma população específica. Contudo, com o avançar das discussões, entendemos que,para definir critérios no código, a melhor opção era trabalhar com um grupo de pessoas que dividissem aspectos em comum. Por conta disso, optamos por trabalhar com pessoas gestantes em busca de atendimento em postos de urgência e emergência obstétrica.
@@ -96,7 +96,6 @@ Inicialmente, não havíamos definido uma população específica. Contudo, com 
 ## Progresso do Projeto <a name="progresso"></a>
 
 - [x] Definir temas
-    - [ ] 
 - [x] Leitura de Artigos
 - [ ] Acesso aos dados do ONS
 - [ ] Análise de correlações espaciotemporais entre fontes renováveis ligadas ao SIN:
@@ -128,7 +127,7 @@ Sem a ajuda dos nossos orientadores, nós não teriamos conseguido chegar até o
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/106626661/225807702-e7160618-f41a-4dd9-9fe7-b1bb6b3b79f9.png" width="100px;" alt="Foto do Prof"/><br>
+        <img src="https://github.com/user-attachments/assets/0ea50a13-ad30-41d7-8a59-129d33e96e12" width="100px;" alt="Foto do Prof"/><br>
         <sub>
           <b>Carlos Driemeier (Orientados)</b>
         </sub>
@@ -138,13 +137,13 @@ Sem a ajuda dos nossos orientadores, nós não teriamos conseguido chegar até o
       <a href="#">
         <img src="https://user-images.githubusercontent.com/106626661/226813480-59ee8d2e-918a-4929-a463-d1fa13599aaf.png" width="100px;" alt="Foto do Pepe"/><br>
         <sub>
-          <b>Daniela do Vale (Orientador)</b>
+          <b>Daniela Valle (Orientador)</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/106626661/225808282-8a7219bc-77e7-4626-a5f4-d80ea97c755d.png" width="100px;" alt="Foto do Gui"/><br>
+        <img src="https://github.com/user-attachments/assets/aeceb827-fcfb-4410-940a-1c7ad1eb0c68" width="100px;" alt="Foto do Gui"/><br>
         <sub>
           <b>João Caramês (Orientador) </b>
         </sub>
