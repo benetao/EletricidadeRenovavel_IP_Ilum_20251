@@ -68,7 +68,7 @@ Inicialmente, não havíamos definido uma população específica. Contudo, com 
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/benetao/Projeto_Final_RNAG/assets/106626661/00bba602-403d-4923-918d-e88036e2818b" width="100px;" alt="Foto do Prof"/><br>
+        <img src="https://github.com/user-attachments/assets/bf90cc65-43f2-458d-9ec1-9863c44a7e2d" width="100px;" alt="Foto do Prof"/><br>
         <sub>
           <b>Gabriel González</b>
         </sub>
@@ -76,7 +76,7 @@ Inicialmente, não havíamos definido uma população específica. Contudo, com 
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/benetao/Projeto_Final_RNAG/assets/106626661/bd3e5b7a-7157-4333-b652-54b743c6c39b" width="100px;" alt="Foto do Gui"/><br>
+        <img src="https://github.com/user-attachments/assets/5bf36855-c212-406a-882a-d6fa3713d2e8" width="100px;" alt="Foto do Gui"/><br>
         <sub>
           <b>Isabela Beneti</b>
         </sub>
@@ -135,7 +135,7 @@ Sem a ajuda dos nossos orientadores, nós não teriamos conseguido chegar até o
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/106626661/226813480-59ee8d2e-918a-4929-a463-d1fa13599aaf.png" width="100px;" alt="Foto do Pepe"/><br>
+        <img src="https://github.com/user-attachments/assets/47df5ba9-cf3c-4f84-987b-53181968c687" width="100px;" alt="Foto do Pepe"/><br>
         <sub>
           <b>Daniela Valle (Orientador)</b>
         </sub>
